@@ -14,8 +14,8 @@ header h1 {
 }
 
 header {
-    padding: 40px;
-    background-color:rgba(255, 255, 0, 0.774)
+    padding: 10px;
+    background-color: #424242;
 }
 
 nav {
@@ -32,7 +32,6 @@ nav a {
 }
 
 main {
-    background-color: white;
     text-align: center;
 }
 
